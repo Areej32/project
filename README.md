@@ -5,9 +5,13 @@ Group Repo: https://github.com/Areej32/project.git
 
 Team Members:
 •	Pavan
+
 •	Terry
+
 •	Areej
+
 •	Isaac
+
 •	Justin
 
 Project Description/Outline:
