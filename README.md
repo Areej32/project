@@ -9,7 +9,8 @@ Team Members:
 
 •	Terry
 
-•	Areej
+•	Areej https://www.linkedin.com/in/areej-edaibat-6276a2155/
+
 
 •	Isaac
 
