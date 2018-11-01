@@ -1,5 +1,4 @@
-# project
-NJ High School Educational Success Measures
+# Project 1 :- NJ High School Educational Success Measures
 
 Group Repo: https://github.com/Areej32/project.git
 
