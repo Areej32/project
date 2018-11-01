@@ -17,7 +17,7 @@ Group Repo: https://github.com/Areej32/project.git
 ### Project Description/Outline:
 How do various different factors affect New Jersey’s high school’s graduation rate and standardized test scores. 
 
-Research Questions to Answer:
+### Research Questions to Answer:
 1.	Does level of income correlate to graduation rate and test scores?
 2.	Does household size correlate to graduation rate and test scores?
 3.	Does unemployment rate correlate to graduation rate and test scores?
