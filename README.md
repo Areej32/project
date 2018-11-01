@@ -3,7 +3,7 @@ NJ High School Educational Success Measures
 
 Group Repo: https://github.com/Areej32/project.git
 
-Team Members:
+### Team Members:
 
 •	Pavan
 
@@ -11,12 +11,11 @@ Team Members:
 
 •	Areej Edaibat https://www.linkedin.com/in/areej-edaibat-6276a2155/
 
-
 •	Isaac
 
 •	Justin
 
-Project Description/Outline:
+### Project Description/Outline:
 How do various different factors affect New Jersey’s high school’s graduation rate and standardized test scores. 
 
 Research Questions to Answer:
@@ -29,10 +28,11 @@ Research Questions to Answer:
 7.	Does spending per pupil correlate to graduation rate and test scores?
 8.	Does the language spoken at home correlate to graduation rate and test scores?
 
-Data Sets to be Used: 
+### Data Sets to be Used: 
 Census API
 Various NJDOE Data Sets available at: https://www.state.nj.us/education/data/
 
-Rough Breakdown of Tasks:
-One person will need to clean the data so that it is only the high schools’ graduation rate and test scores.  Each person will select one question to answer. We will all use the cleaned data.
-We will compile our code and work on the presentation together. 
+### Rough Breakdown of Tasks:
+One person will need to clean the data so that it is only the high schools’ graduation rate and test scores.Each person will select one question to answer. We will all use the cleaned data.
+
+We will compile our code and work on the presentation together.
