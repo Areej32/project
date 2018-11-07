@@ -28,8 +28,12 @@ How do various different factors affect New Jersey’s high school’s graduatio
 8.	Does the language spoken at home correlate to graduation rate and test scores?
 
 ### Data Sets to be Used: 
+
 Census API
+
 Various NJDOE Data Sets available at: https://www.state.nj.us/education/data/
+
+https://www.opendatanetwork.com/
 
 ### Rough Breakdown of Tasks:
 One person will need to clean the data so that it is only the high schools’ graduation rate and test scores.Each person will select one question to answer. We will all use the cleaned data.
